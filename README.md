@@ -1,6 +1,6 @@
-# mango-ui
+# dymw-ui
 
-> mango-ui
+> dymw-ui
 
 ## Build Setup
 
